@@ -9,5 +9,7 @@ The finished files are in the "Challenge" file, which includes the app.py file t
 
 
 
+<p align="center" width="100%">
+<img width= "40%" src=https://user-images.githubusercontent.com/105991478/186279929-ba1c2067-07f5-45e2-b216-69665845dcc0.png>
+</p>
 
-![Screenshot 2022-08-23 185329](https://user-images.githubusercontent.com/105991478/186279929-ba1c2067-07f5-45e2-b216-69665845dcc0.png)
